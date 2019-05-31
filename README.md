@@ -15,5 +15,5 @@ perl tokenizer.perl -l en < english_tweets.cleaned.txt > english_tweets.cleaned.
 
 If the language code is not accepted, it will default to English (this is fine).
 
-NOTE that this script is taken from the Moses tokenizer.
+NOTE that this script is taken from the Moses tokenizer;some punctuations have been added or excluded in order to deal with our data.
 https://github.com/moses-smt/mosesdecoder/blob/master/scripts/tokenizer/tokenizer.perl
