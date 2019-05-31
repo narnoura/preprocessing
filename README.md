@@ -1,5 +1,5 @@
 # preprocessing
-scripts to preprocess and tokenize text for sentiment analysis
+Scripts to preprocess and tokenize text for sentiment analysis
 
 To clean tweets, run this script:
 
